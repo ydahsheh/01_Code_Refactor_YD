@@ -1,1 +1,176 @@
 
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/*- The background color of the body--*/
+body {
+    background-color: #d9dcd6;
+}
+
+/*------------ General stylings starts-----------------------*/
+/*--content of a block should be white colored-*/
+a { 
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/*- size of p tag is set to 16px--*/
+p {
+    font-size: 16px;
+}
+
+/*--move left-*/
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/*--move right-*/
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+/*------------ General stylings ends-----------------------*/
+
+
+/*-- -----------------------------Header stylings Starts---------------------*/
+/*--header stylings including padding,font,color-*/
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+/*- the logo size is set to 48px--*/
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+/*- logo color of seo is changed--*/
+header h1 .seo {
+    color: #d9dcd6;
+}
+
+/*-- header division for navigation stylings including font,padding etc-*/
+header div {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+/*- navigation should not be in the form of list--*/
+header div nav {
+    list-style-type: none;
+}
+
+/*-- space between each nav links ----*/
+header div nav a{
+    display: inline-block;
+    margin-left: 25px;
+}
+/*-- -----------------------------Header stylings ends---------------------*/
+
+
+
+/*- background image stylings--*/
+.bgimage {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+/*-- -----------------------------Main stylings starts---------------------*/
+/*- main block should be towards left and should be covering only 75% of the screen--*/
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/*- All blocks in main tag stylings that include font, background color and font--*/
+#search, #online, #social {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/*- All blocks  main tag images stylings where the image size should be max 200px--*/
+#search img,#online img, #social img {
+    max-height: 200px;
+}
+
+/*- All blocks in main tag heading stylings--*/
+#search h2,#online h2,#social h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+
+/*-- -----------------------------Main stylings ends---------------------*/
+
+
+
+/*-- -----------------------------aside stylings starts---------------------*/
+/*--  aside tag stylings, including position, font etc-*/
+aside {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+
+/*-  all blocks inside aside tag should have font color white--*/
+#benefit-lead, #benefit-brand,#benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/*- The heading of inside aside tag should be in center--*/
+#benefit-lead h3, #benefit-brand h3, #benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/*- the images inside aside block should have width of 150px--*/
+#benefit-lead img, #benefit-brand img, #benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/*-- -----------------------------aside styling ends---------------------*/
+
+/*-- -----------------------------Footer styling starts---------------------*/
+/*-font,padding,aligning of the footer*/
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+/*--footer font size-*/
+footer h2 {
+    font-size: 20px;
+}
+/*-- -----------------------------Footer styling ends---------------------*/
