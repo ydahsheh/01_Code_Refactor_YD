@@ -3,7 +3,7 @@ MIA Bootcamp Challenge 1 - HTML CSS Git Challenge: Code Refactor
 # The Challenge 
 Refactor the code to improve accessibility and search engine optimization of an existing webpage.
 
-⚠️This is not a function application. Please view deployed application with GitHub Pages Link [HERE](https://github.com/ydahsheh/01_Code_Refactor_YD/blob/main/assets/images/Screen%20Shot%202021-12-21%20at%202.17.57%20PM.png)
+⚠️This is not a functional application. Please view deployed application with GitHub page link [HERE](https://github.com/ydahsheh/01_Code_Refactor_YD/blob/main/assets/images/Screen%20Shot%202021-12-21%20at%202.17.57%20PM.png)
 
 ![screencapture-file-Users-yasmeendahsheh-Desktop-02-Challenge-02-Challenge-Develop-index-html-2021-12-21-14_18_24-edit (1)](https://user-images.githubusercontent.com/93455758/147031990-6af087ea-2ca8-41c8-9b04-5185ae5d06fd.jpg)
 
@@ -11,13 +11,13 @@ Refactor the code to improve accessibility and search engine optimization of an 
 1. All links within the application are working properly.
 2. Application's CSS selectors and properties follow a semantic structure.
 3. Application's CSS file is properly commented.
-    - Application deployed at live URL.
-    - Application loads with no errors.
-4. Application GitHub URL submitted.
-5. GitHub repository that contains application code.
+4. Application deployed at live URL.
+5. Application loads with no errors.
+6. Application GitHub URL submitted.
+7. GitHub repository that contains application code.
 
 ## Additional requirements for long term sustainability: 
-- Rework the CSS to make it more efficient by consolidating CSS selectors and properties.
+Rework the CSS to make it more efficient by consolidating CSS selectors and properties.
 
 ## Repository requirements:
 - Repository has a unique name.
@@ -27,11 +27,11 @@ Refactor the code to improve accessibility and search engine optimization of an 
 - Repository contains quality README file with description, screenshot, and link to deployed application.
 
 # Installation
-- The project has been uploaded to [GitHub](https://github.com/) at the following repository:
+The project has been uploaded to [GitHub](https://github.com/) at the following repository:
 https://github.com/ydahsheh/01_Code_Refactor_YD
 
 # References 
-[Code refactoring](https://en.wikipedia.org/wiki/Code_refactoring)
+[Code Refactoring](https://en.wikipedia.org/wiki/Code_refactoring)
 
 [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
