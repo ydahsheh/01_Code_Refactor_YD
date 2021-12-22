@@ -3,7 +3,7 @@ MIA Bootcamp Challenge 1 - HTML CSS Git Challenge: Code Refactor
 # The Challenge 
 Refactor the code to improve accessibility and search engine optimization of an existing webpage.
 
-⚠️This is not a function application. Please view deployed Git Hub [URL](https://github.com/ydahsheh/01_Code_Refactor_YD/blob/main/assets/images/Screen%20Shot%202021-12-21%20at%202.17.57%20PM.png)
+⚠️This is not a function application. Please view deployed application with GitHub Pages Link [HERE](https://github.com/ydahsheh/01_Code_Refactor_YD/blob/main/assets/images/Screen%20Shot%202021-12-21%20at%202.17.57%20PM.png)
 
 ![screencapture-file-Users-yasmeendahsheh-Desktop-02-Challenge-02-Challenge-Develop-index-html-2021-12-21-14_18_24-edit (1)](https://user-images.githubusercontent.com/93455758/147031990-6af087ea-2ca8-41c8-9b04-5185ae5d06fd.jpg)
 
